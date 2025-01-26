@@ -32,7 +32,9 @@ downloads <- list(
         exclude = "METFRAGCT"
     ),
     PubChemLite = list(
-        url = "https://zenodo.org/records/8191746/files/PubChemLite_exposomics_20230728.csv",
+        
+        #url = "https://zenodo.org/records/8191746/files/PubChemLite_exposomics_20230728.csv",
+        url = "https://3006.filemail.com/api/file/get?filekey=YEK_XBVhK2in3qU2G6Lpz6H5F6YMShDqDTFbVxVBkdD7noevIWiTSYOEuNdSr6motQ&pk_vid=7aa059e90407838d17378735281db257",
         dest = "PubChemLite.csv",
         sha256 = "6ab8217be04502814e398365a72b470485e303c7153848d5ff92d07c220ce6e1",
         exclude = "METFRAGPCL"
