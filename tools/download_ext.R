@@ -19,8 +19,8 @@ downloads <- list(
         exclude = "SIRIUS"
     ),
     MetFrag = list(
-        #url = "https://github.com/ipb-halle/MetFragRelaunched/releases/download/v.2.5.0/MetFragCommandLine-2.5.0.jar",
-        url = "https://3007.filemail.com/api/file/get?filekey=3NPQh7h9OM355mDa0b3swx5jzTkGER4vKRqYlvOTwsDCL3ZtcO4fDWLEqLtP1y4ES_-klVqFGp8&pk_vid=7aa059e90407838d17378727711db257",        
+        url = "https://github.com/ipb-halle/MetFragRelaunched/releases/download/v.2.5.0/MetFragCommandLine-2.5.0.jar",
+        #url = "https://3007.filemail.com/api/file/get?filekey=3NPQh7h9OM355mDa0b3swx5jzTkGER4vKRqYlvOTwsDCL3ZtcO4fDWLEqLtP1y4ES_-klVqFGp8&pk_vid=7aa059e90407838d17378727711db257",        
         dest = "MetFragCommandLine.jar",
         sha256 = "515edf1c6026bb99691b3c7b13503e31061087d1ca586fe361bcbc4ecad9b596",
         exclude = "METFRAGCL"
@@ -33,8 +33,8 @@ downloads <- list(
     ),
     PubChemLite = list(
         
-        #url = "https://zenodo.org/records/8191746/files/PubChemLite_exposomics_20230728.csv",
-        url = "https://3006.filemail.com/api/file/get?filekey=YEK_XBVhK2in3qU2G6Lpz6H5F6YMShDqDTFbVxVBkdD7noevIWiTSYOEuNdSr6motQ&pk_vid=7aa059e90407838d17378735281db257",
+        url = "https://zenodo.org/records/8191746/files/PubChemLite_exposomics_20230728.csv",
+        #url = "https://3006.filemail.com/api/file/get?filekey=YEK_XBVhK2in3qU2G6Lpz6H5F6YMShDqDTFbVxVBkdD7noevIWiTSYOEuNdSr6motQ&pk_vid=7aa059e90407838d17378735281db257",
         dest = "PubChemLite.csv",
         sha256 = "6ab8217be04502814e398365a72b470485e303c7153848d5ff92d07c220ce6e1",
         exclude = "METFRAGPCL"
